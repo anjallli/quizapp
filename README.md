@@ -1,6 +1,7 @@
 Quiz is an android Application built in android studio.
+
 Description:
-Frontend: Kotlin, xml
-Backend: Java
-Tool: Android Studio
-Database: Google Firebase
+1. Frontend: Kotlin, xml
+2. Backend: Java
+3. Tool: Android Studio
+4. Database: Google Firebase
