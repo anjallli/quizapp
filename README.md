@@ -1,7 +1,6 @@
-# Quiz Android Aoolication
+# Quiz Android Application
 
 Quiz is an android Application built in android studio.
-
 Description:
 1. Frontend: Kotlin, xml
 2. Backend: Java
