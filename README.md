@@ -7,8 +7,4 @@ The application allows users to attempt quizzes through a clean and responsive i
 This project focuses on Android application development concepts such as user interface design, backend functionality, real-time database connectivity, and overall app performance optimization.
 Developed and tested using Android Studio, the application demonstrates practical implementation of mobile app development and database integration.
 
-Tools & Technologies Used
-Frontend: Kotlin, XML
-Backend: Java
-Database: Google Firebase
-Development Tool: Android Studio
+Tools & Technologies Used: Kotlin, XML, Java, Android Studio, Google Firebase.
